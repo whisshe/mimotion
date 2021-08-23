@@ -115,7 +115,7 @@ def push_tg(msg):
 
 def send(msg):
    msg = now+ msg
-   push_tg(msg)
-   push_qq(msg)
-   push_wx(msg)
+#    push_tg(msg)
+#    push_qq(msg)
+#    push_wx(msg)
 
